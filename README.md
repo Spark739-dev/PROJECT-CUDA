@@ -1,2 +1,15 @@
 # PROJECT-CUDA
-CUDA-based parallel Merge Sort implementation for efficient large-scale data processing. Supports command-line input, modular design, and optimized GPU memory usage. Includes build and execution instructions.
+# CUDA Project
+
+## Overview
+This project demonstrates GPU parallel computation using CUDA. A simple vector addition kernel is implemented to showcase execution on GPU.
+
+## Features
+- CUDA kernel execution
+- Host to device memory transfer
+- Device to host result retrieval
+- Simple parallel computation
+
+## Build
+```bash
+make
