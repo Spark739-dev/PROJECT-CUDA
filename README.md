@@ -12,4 +12,4 @@ This project demonstrates GPU parallel computation using CUDA. A simple vector a
 
 ## Build
 ```bash
-make
+make run
